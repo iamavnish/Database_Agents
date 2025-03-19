@@ -2,8 +2,8 @@
 
 ## Set Up
 ### Environment Variables
-   AZURE_OPENAI_ENDPOINT=your_endpoint
-   AZURE_OPENAI_API_KEY=your_key
+   - AZURE_OPENAI_ENDPOINT=your_endpoint
+   - AZURE_OPENAI_API_KEY=your_key
 
 ### Azure Configuration
   a. Create an Azure Account
