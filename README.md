@@ -16,4 +16,7 @@
 
   - Create an Azure OpenAI Resource
     - In Azure portal, search for "Azure OpenAI"
-    - Click "Create" and follow setup wizard  
+    - Click "Create" and follow setup wizard
+
+ ### Acknowledgements
+     This project is inspired by the DeepLearning.AI courses (https://www.deeplearning.ai/).
