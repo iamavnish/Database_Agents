@@ -19,4 +19,4 @@
     - Click "Create" and follow setup wizard
 
  ### Acknowledgements
-  This project is inspired by the DeepLearning.AI courses (https://www.deeplearning.ai/).
+   This project is inspired by the DeepLearning.AI courses (https://www.deeplearning.ai/).
