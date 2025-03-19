@@ -6,10 +6,10 @@
    - AZURE_OPENAI_API_KEY=your_key
 
 ### Azure Configuration
-  a. Create an Azure Account
+  - Create an Azure Account
     - Visit portal.azure.com and sign up for an account
-    - If you're new to Azure, you may be eligible for free credits
+    - If you're new to Azure, you might be eligible for free credits
 
-  b. Create an Azure OpenAI Resource
+  - Create an Azure OpenAI Resource
     - In Azure portal, search for "Azure OpenAI"
     - Click "Create" and follow setup wizard  
