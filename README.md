@@ -1,6 +1,10 @@
 # Interacting with Databases in Natural Language using AI Agents
 
 ## Set Up
+
+### Installation of Packages
+    pip install -r requirements.txt
+    
 ### Environment Variables
    - AZURE_OPENAI_ENDPOINT=your_endpoint
    - AZURE_OPENAI_API_KEY=your_key
