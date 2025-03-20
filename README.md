@@ -1,4 +1,11 @@
-# Interacting with Databases in Natural Language using AI Agents
+# Overview
+Interacting with Databases in Natural Language using AI Agents. Another option is to fine-tune a baseline model for SQL tasks but that would be more resource intensive.
+
+![image](https://github.com/user-attachments/assets/870a4016-01c9-4efe-bb59-1347a507661b)
+
+## Architecture
+
+![image](https://github.com/user-attachments/assets/72005205-5a3c-4d04-8fd2-69f41b6ff744)
 
 ## Set Up
 
