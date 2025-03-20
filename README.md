@@ -26,4 +26,4 @@ Interacting with Databases in Natural Language using AI Agents. Another option i
     - Click "Create" and follow setup wizard
 
  ### Acknowledgements
-   This project is inspired by the DeepLearning.AI courses (https://www.deeplearning.ai/).
+   This PoC is inspired by the DeepLearning.AI courses (https://www.deeplearning.ai/).
